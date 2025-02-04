@@ -7,7 +7,7 @@ export const DATA = {
   url: "https://saianiltekuri.io",
   location: "United States",
   locationLink: "https://www.google.com/maps/place/United+States",
-  resumeLink: "https://drive.google.com/file/d/1tFBWiBVB1A5VgcYzla-68SQPaI214RAR/view?usp=sharing",
+  resumeLink: "https://drive.google.com/file/d/10c5w8k2clSoFSGEQpuI--nry_56zoT1A/view?usp=sharing",
   description:
     "Experienced DevOps Engineer who loves designing efficient workflows, securing cloud systems, and optimizing CI/CD pipelines. A problem-solver at heart, I enjoy building solutions that make a difference.",
   summary:
