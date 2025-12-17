@@ -7,11 +7,11 @@ export const DATA = {
   url: "https://saianiltekuri.io",
   location: "United States",
   locationLink: "https://www.google.com/maps/place/United+States",
-  resumeLink: "https://drive.google.com/file/d/10c5w8k2clSoFSGEQpuI--nry_56zoT1A/view?usp=sharing",
+  resumeLink: "https://drive.google.com/file/d/10C4IUOt8NQ-qIdsTtlX6hvXbjEIJmKMD/view?usp=sharing",
   description:
-    "Experienced DevOps Engineer who loves designing efficient workflows, securing cloud systems, and optimizing CI/CD pipelines. A problem-solver at heart, I enjoy building solutions that make a difference.",
+    "Experienced IAM & DevOps Engineer who loves designing efficient workflows, securing cloud systems, and optimizing CI/CD pipelines. A problem-solver at heart, I enjoy building solutions that make a difference.",
   summary:
-    "At the start of 2023, I shifted from my role as a DevOps Engineer to dive deeper into designing scalable cloud solutions and optimizing workflows. With a [Master's in Computer Science](/#education) and [certifications in AWS and OKTA](#hackathons), I’ve led cloud migrations, built CI/CD pipelines, and implemented Zero Trust security frameworks. I’m passionate about automating processes, securing systems, and collaborating to solve meaningful challenges.",
+    "I am an automation enthusiast who loves to dive deeper into securing cloud solutions and designing optimized workflows. With a [Master's in Computer Science](/#education) and [certifications in AWS and OKTA](#hackathons), I’ve led cloud migrations, built CI/CD pipelines, and implemented Zero Trust security frameworks. I’m passionate about automating processes, securing systems, and collaborating to solve meaningful challenges.",
   avatarUrl: "/me.jpg",
   skills: [
     "Terraform",
@@ -24,7 +24,7 @@ export const DATA = {
     "Helm",
     "AWS",
     "EC2", "EBS", "VPC", "RDS", "ELB", "Auto Scaling", "CloudFormation", "CloudWatch", "Glue", "CloudFront", "Athena", "ElastiCache", "API Gateway", "Route 53", "SQS", "SNS",
-    "Azure AD", "App Service", "AKS", "ACI", "Azure DevOps", "Functions",
+    "Microsoft AD", "Entra ID", "App Service", "AKS", "ACI", "Azure DevOps", "Functions",
     "Prometheus",
     "Grafana",
     "Azure Monitor",
@@ -44,7 +44,7 @@ export const DATA = {
     { href: "/", icon: HomeIcon, label: "Home" },
   ],
   contact: {
-    email: "saianiltekuri1011@gmail.com",
+    email: "saianiltekuri98@gmail.com",
     tel: "+1 716-247-3879",
     social: {
       GitHub: {
@@ -73,6 +73,18 @@ export const DATA = {
 
   work: [
     {
+      company: "M&T Bank",
+      href: "https://www.mtb.com/",
+      badges: [],
+      location: "Remote",
+      title: "DevOps & IAM Engineer",
+      logoUrl: "/anandpag.png",
+      start: "March 2025",
+      end: "Present",
+      description:
+        "Driving enterprise-wide identity and access management transformations by migrating SSO from PingFederate to Azure Entra ID for 80+ applications with SAML and OIDC/OAuth 2.0, ensuring seamless cutovers with zero downtime. Configuring App Registrations and Enterprise Applications to enable SCIM-based user provisioning, app roles, and API permissions, while monitoring sign-ins and audit logs. Streamlining access management for 20,000 users through automated RBAC and group-based entitlements, reducing manual requests by 40%. Enhancing security posture by deploying phishing-resistant authentication via Windows Hello, Microsoft Authenticator, and FIDO2 security keys, aligning with NIST, GDPR, and FISMA standards.",
+    },
+    {
       company: "Anand PAG Inc.",
       href: "https://www.anand-pag.com/",
       badges: [],
@@ -80,7 +92,7 @@ export const DATA = {
       title: "DevOps & IAM Engineer",
       logoUrl: "/anandpag.png",
       start: "July 2024",
-      end: "Present",
+      end: "March 2025",
       description:
         "Orchestrating secure and scalable identity and access management solutions. Implementing and managing Okta SSO integrations, streamlining user authentication processes, and enhancing security frameworks through MFA and Zero Trust principles. Contributing to optimizing DevOps workflows by automating deployment pipelines and integrating monitoring and logging tools. Helped secure and optimize cloud infrastructure while ensuring seamless user access management.",
     },
