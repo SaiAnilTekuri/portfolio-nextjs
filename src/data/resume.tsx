@@ -77,8 +77,8 @@ export const DATA = {
       href: "https://www.mtb.com/",
       badges: [],
       location: "Remote",
-      title: "DevOps & IAM Engineer",
-      logoUrl: "/anandpag.png",
+      title: "Active Directory Engineer II",
+      logoUrl: "/mtb.png",
       start: "March 2025",
       end: "Present",
       description:
